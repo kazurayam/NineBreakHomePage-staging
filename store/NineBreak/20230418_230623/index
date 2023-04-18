@@ -1,0 +1,6 @@
+2350d841054272563e776d94960e65b1935c8016	png	{"menu":"1_ホーム", "URL.host":"192.168.33.112", "URL.path":"/index.php", "URL.port":"80", "URL.protocol":"http"}
+87ef42930fbb99102540064237dbf87eafd74eec	png	{"menu":"2_お知らせ", "URL.host":"192.168.33.112", "URL.path":"/news.php", "URL.port":"80", "URL.protocol":"http"}
+b2b76409ff6e9009d4f2f51e686c1c292448a5f3	png	{"menu":"3_ルール説明", "URL.host":"192.168.33.112", "URL.path":"/rules.php", "URL.port":"80", "URL.protocol":"http"}
+1169b7e2ac9f54f3c548a68c68c43debf19e2f80	png	{"menu":"4_協会案内", "URL.host":"192.168.33.112", "URL.path":"/aboutus.php", "URL.port":"80", "URL.protocol":"http"}
+36d37ce9da868a38de0306b2eef61c7e29bc7fa7	png	{"menu":"5_お問合せ", "URL.host":"192.168.33.112", "URL.path":"/contact.php", "URL.port":"80", "URL.protocol":"http"}
+dbbb8ecfe2d956cfc9b6960011608d0fff363917	png	{"menu":"6_リンク", "URL.host":"192.168.33.112", "URL.path":"/link.php", "URL.port":"80", "URL.protocol":"http"}
